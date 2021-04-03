@@ -1,0 +1,16 @@
+.post > div {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.post button {
+  background-color: unset;
+}
+
+.post img {
+  width: 28px;
+}
+.delete {
+  cursor: pointer;
+}
